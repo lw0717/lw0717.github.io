@@ -30,8 +30,8 @@ github_username:  lw0717
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 # paginate: 10 # 一页你准备放几篇文章
 
 # Exclude from processing.

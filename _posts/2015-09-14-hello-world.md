@@ -2,7 +2,8 @@
 layout: post
 title:  "Hello World"
 date:   2015-09-14 09:58:35 +0800
-categories: blog
+categories: summary
+tags: summary
 ---
 其实很早以前就有了弄个Blog的想法，但是考虑到：当时我只想分享技术方面的文章，然而在技术方面，总觉得自己做的事一些重复性高、没有很大技术含量的事，所以一直没有行动起来。
 
